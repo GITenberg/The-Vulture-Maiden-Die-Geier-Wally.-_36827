@@ -1,0 +1,40 @@
+_repo: The-Vulture-Maiden-Die-Geier-Wally.-_36827
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+  - agent_name: Poynter, E. Frances (Eleanor Frances)
+    alias: Poynter, Eleanor Frances
+    gutenberg_agent_id: '6931'
+    url: http://www.gutenberg.org/2009/agents/6931
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hillern, Wilhelmine von
+    aliases:
+    - Birch, Wilhelmine
+    - Von Hillern, Wilhelmine
+    birthdate: 1836
+    deathdate: 1916
+    gutenberg_agent_id: '24819'
+    url: http://www.gutenberg.org/2009/agents/24819
+description: ''
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Tyrol (Austria) -- Fiction'
+title: The Vulture Maiden [Die Geier-Wally.]
+url: http://www.gutenberg.org/ebooks/36827
